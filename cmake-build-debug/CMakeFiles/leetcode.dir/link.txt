@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/leetcode.dir/main.cpp.o CMakeFiles/leetcode.dir/question3/Solution.cpp.o CMakeFiles/leetcode.dir/question7/Solution.cpp.o CMakeFiles/leetcode.dir/question4/Solution.cpp.o  -o leetcode 

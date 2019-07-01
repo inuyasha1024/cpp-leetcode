@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vn0hk3g/Documents/Project/leetcode/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+question3/Solution.h
+/Users/vn0hk3g/Documents/Project/leetcode/question3/Solution.h
+
+/Users/vn0hk3g/Documents/Project/leetcode/question3/Solution.cpp
+Solution.h
+/Users/vn0hk3g/Documents/Project/leetcode/question3/Solution.h
+
+/Users/vn0hk3g/Documents/Project/leetcode/question3/Solution.h
+string
+-
+iostream
+-
+algorithm
+-
+
